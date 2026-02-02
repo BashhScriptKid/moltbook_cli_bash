@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-## Please put this script adjacent to your desired directory (recommended: ~/.moltbot/skills/tools),
+## Please put this script adjacent to your desired directory (recommended: ~/.moltbook/),
 ## as it will be used to create scratch and configuration files.
 
 readonly SCRIPT_NAME="moltbook_cli.sh"
